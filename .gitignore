@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+
+# 环境变量（重要！不要上传密钥）
+.env
+*.env
+
+# PyCharm 配置
+.idea/
+
+# 日志和临时文件
+*.log
+.DS_Store
+
+# 虚拟环境
+venv/
+env/
